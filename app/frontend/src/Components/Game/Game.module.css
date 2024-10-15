@@ -1,0 +1,10 @@
+
+.gameContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.gameItem {
+    padding: 10px;
+}
